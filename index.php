@@ -48,8 +48,10 @@
                 <a href="#">Forgot Password?</a>
                 <p><input type="checkbox">Remember Me</p>
             </div>-->
-            <!-- <button type="submit" name="login-submit">Login</button> -->
-            <a href="home.php" class="button" name="login-submit" type="submit"></a>
+            <a href="home.php">
+                <button type="submit" name="login-submit">Login</button>
+            </a>
+            
         </form>
           <p class=" w3l-register-p">Login as<a href="login-hostel_manager.php" class="register"> Hostel-Manager/Admin</a></p>
         <p class=" w3l-register-p">Don't have an account?<a href="signup.php" class="register"> Sign up</a></p>
