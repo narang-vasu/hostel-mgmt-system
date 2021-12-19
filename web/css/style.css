@@ -82,7 +82,7 @@ input[type="password"]:focus {
     outline: none;
 }
 
-button {
+.button {
     background: #fc3955;
     color: #ffffff;
     font-size: 13px;
@@ -95,7 +95,7 @@ button {
     border-radius: 6px;
 }
 
-button:hover {
+.button:hover {
     background-color: #00BCD4;
     transition-duration: 5s;
 }
